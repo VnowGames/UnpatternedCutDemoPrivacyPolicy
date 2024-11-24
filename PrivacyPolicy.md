@@ -43,7 +43,7 @@ The primary purposes for collecting data are:
 
 ## User Rights and Data Deletion
 
-You have certain rights regarding your data, including the right to request the deletion of data related to leaderboard participation and user preferences. If you wish to delete your data, please contact us at [admin@vnowgames.com](mailto:admin@vnowgames.com).
+You have certain rights regarding your data, including the right to request the deletion of data related to leaderboard participation and user preferences. If you wish to delete your data, please contact us at [info@vnowgames.com](mailto:info@vnowgames.com).
 
 ## Data Security
 
@@ -55,4 +55,4 @@ We may update this privacy policy from time to time. If we make changes, we will
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at [admin@vnowgames.com](mailto:admin@vnowgames.com).
+If you have any questions about this privacy policy, please contact us at [info@vnowgames.com](mailto:info@vnowgames.com).
